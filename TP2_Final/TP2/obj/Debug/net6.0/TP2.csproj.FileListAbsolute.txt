@@ -1,0 +1,89 @@
+C:\Users\Arno\source\repos\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\Arno\source\repos\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\Arno\source\repos\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\Arno\source\repos\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\Arno\source\repos\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\Arno\source\repos\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\Arno\Desktop\TP2test\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\Arno\Desktop\TP2test\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\Arno\Desktop\TP2test\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\Arno\Desktop\TP2test\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\Arno\Desktop\TP2test\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\Arno\Desktop\TP2test\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2b\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\Arno\Desktop\TP2_Final\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\Arno\Desktop\TP2_Final\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\Arno\Desktop\TP2_Final\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\Arno\Desktop\TP2_Final\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\Arno\Desktop\TP2_Final\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\Arno\Desktop\TP2_Final\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\2318742\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Hiver 2023\ALGORITHMIE\TP\TP2_Final\TP2\obj\Debug\net6.0\ref\TP2.dll
+\\192.168.1.100\Transfert\TP2_Final\TP2\bin\Debug\net6.0\TP2.exe
+\\192.168.1.100\Transfert\TP2_Final\TP2\bin\Debug\net6.0\TP2.deps.json
+\\192.168.1.100\Transfert\TP2_Final\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+\\192.168.1.100\Transfert\TP2_Final\TP2\bin\Debug\net6.0\TP2.dll
+\\192.168.1.100\Transfert\TP2_Final\TP2\bin\Debug\net6.0\TP2.pdb
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\TP2.dll
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\refint\TP2.dll
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\TP2.pdb
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+\\192.168.1.100\Transfert\TP2_Final\TP2\obj\Debug\net6.0\ref\TP2.dll
